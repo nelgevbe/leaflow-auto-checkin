@@ -1,4 +1,4 @@
-name: auto update
+name: auto update version
 
 on:
   workflow_dispatch:
